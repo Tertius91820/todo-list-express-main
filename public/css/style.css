@@ -5,3 +5,6 @@ h1{
     color: gray;
     text-decoration: line-through;
 }
+.item{
+    font-size: 20px;
+}
